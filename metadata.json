@@ -1,0 +1,8 @@
+{
+  "name": "Zestwell — Citrus Season",
+  "description": "A first-person 3D curved gallery passage and art-print shop featuring the Citrus Season gouache collection by Zestwell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
